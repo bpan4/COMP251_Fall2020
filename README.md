@@ -1,4 +1,4 @@
-# COMP251_Fall2020
+# COMP251 Fall 2020
 
 ## Course Material
 All the material needed for this class will be available on the public course web page. There is no required textbook. However, we recommend the following textbooks from which most lectures will be based upon:
